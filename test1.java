@@ -1,0 +1,8 @@
+public class test1 {
+    public static void main(String[] args)
+    {
+        System.out.print("Hello");
+        for(int i=1; i<5;i++)
+        System.out.print(i+ " ");
+    }
+}
